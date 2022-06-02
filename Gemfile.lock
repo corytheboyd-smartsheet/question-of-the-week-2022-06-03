@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    heatmap (0.1.1)
+
+PLATFORMS
+  arm64-darwin-21
+
+DEPENDENCIES
+  heatmap
+
+BUNDLED WITH
+   2.2.26
